@@ -9,4 +9,6 @@ Permite registrar expedientes y buscarlos por número. Los datos se guardan en e
 - `archivos.py`: generar, guardar, cargar y buscar expedientes
 
 ## Ejecutar
+´´´
 python main.py
+´´´
